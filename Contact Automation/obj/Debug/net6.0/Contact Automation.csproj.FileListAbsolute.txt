@@ -1,0 +1,15 @@
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\bin\Debug\net6.0\Contact Automation.exe
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\bin\Debug\net6.0\Contact Automation.deps.json
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\bin\Debug\net6.0\Contact Automation.runtimeconfig.json
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\bin\Debug\net6.0\Contact Automation.dll
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\bin\Debug\net6.0\Contact Automation.pdb
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\Contact Automation.csproj.AssemblyReference.cache
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\Contact Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\Contact Automation.AssemblyInfoInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\Contact Automation.AssemblyInfo.cs
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\Contact Automation.csproj.CoreCompileInputs.cache
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\Contact Automation.dll
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\refint\Contact Automation.dll
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\Contact Automation.pdb
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\Contact Automation.genruntimeconfig.cache
+C:\Users\hushd\Desktop\Software Architecture\Contact Automation\Contact Automation\obj\Debug\net6.0\ref\Contact Automation.dll
